@@ -1,9 +1,7 @@
 # Distribution-restrained Softmax Loss for the Model Robustness
  
 Hao Wang, Chen Li, JinZhe Jiang, Xin Zhang, Yaqian Zhao and Weifeng Gong. 
- 
- 
-This repository contains the code and data for the following paper:  
+
 <a href='https://github.com/karlieswift/DRSL'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/abs/2303.12363'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>  
 ## Abstract
 
